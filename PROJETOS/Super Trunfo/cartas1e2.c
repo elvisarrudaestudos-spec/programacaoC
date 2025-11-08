@@ -27,7 +27,7 @@ int main() {
     printf("Digite a população (use sem o ponto, ex: 600000): ");
     scanf("%d", &populacao);
 
-    printf("Digite a área em km² (use ponto, ex: 6522.33): ");
+    printf("Digite a área em km² (use ponto, ex: 7522.33): ");
     scanf(" %f", &area);
 
     printf("Digite o PIB em bilhões (use ponto, ex: 789.30): ");
