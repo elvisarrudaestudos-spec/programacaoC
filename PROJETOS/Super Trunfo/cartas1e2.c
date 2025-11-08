@@ -23,7 +23,7 @@ int main() {
     printf("=== Carta 1 ===\n");
 
     printf("Digite o estado (A-H): ");
-    scanf(" %c", &estado1); // espaço antes do %c evita erro de leitura do Enter
+    scanf(" %c", &estado1); 
 
     printf("Digite o código da carta (ex: A01): ");
     scanf("%9s", codigo1);
