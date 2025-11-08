@@ -30,7 +30,7 @@ int main() {
     printf("Digite a área em km² (use ponto, ex: 7522.33): ");
     scanf(" %f", &area);
 
-    printf("Digite o PIB em bilhões (use ponto, ex: 789.30): ");
+    printf("Digite o PIB em bilhões (use ponto, ex: 889.30): ");
     scanf(" %f", &pib);
 
     printf("Digite o número de pontos turísticos: ");
