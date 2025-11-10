@@ -28,7 +28,7 @@ int main() {
     printf("Digite o código da carta (ex: A01): ");
     scanf("%9s", codigo1);
 
-    printf("Digite o nome da cidade (incluir espaços): ");
+    printf("Digite o nome da cidade (incluir espaços para nomes compostos, ex: JOÃO PESSOA): ");
     scanf(" %[^\n]", nome_cidade1);
 
     printf("Digite a população (use sem o ponto, ex: 600000): ");
@@ -50,10 +50,10 @@ int main() {
     printf("Digite o estado (A-H): ");
     scanf(" %c", &estado2); 
 
-    printf("Digite o código da carta (ex: B03): ");
+    printf("Digite o código da carta (ex: A01): ");
     scanf("%9s", codigo2);
 
-    printf("Digite o nome da cidade (incluir espaços): ");
+    printf("Digite o nome da cidade (incluir espaços para nomes compostos, ex: JOÃO PESSOA): ");
     scanf(" %[^\n]", nome_cidade2);
 
     printf("Digite a população (use sem o ponto, ex: 600000): ");
