@@ -21,11 +21,13 @@ printf("Digite a sua terceira nota: \n");
 //scanf("%d", &nota3);
 scanf("%f", &nota3);
 
-media = (nota1 + nota2 + nota3) / 3;
+//media = (nota1 + nota2 + nota3) / 3;  // implicito
+media = (float) (nota1 + nota2 + nota3) / 3;    // explicito
 
 //printf("A média é: %d\n" , media);
 printf("A média é: %.1f\n" , media);
 
+printf("\n");
 
 return 0;
 
