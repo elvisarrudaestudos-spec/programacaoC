@@ -1,4 +1,9 @@
-// tem a função de trabalhar com nº menores;
+// características do short: 
+    // tem a função de trabalhar com nº menores;
+    // trabalha com nº inteiros;
+    // oculpa menos memória;
+    // 
+
 
 
 
