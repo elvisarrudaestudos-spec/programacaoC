@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main() {
+float 
 
 
+if
 
 
-
-
-
+else
 
 
 
